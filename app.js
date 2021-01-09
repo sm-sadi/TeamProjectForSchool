@@ -5,7 +5,7 @@ const navbar = document.getElementById("nav")
 window.addEventListener("scroll", (event) => {
     let scroll = this.scrollY;
     // console.log(scroll)
-    if(scroll > 250){
+    if(scroll > 150){
         navbar.classList.add("sticky-top")
         navbar.classList.add("shadow-sm")
     }else{
