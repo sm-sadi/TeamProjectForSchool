@@ -4,7 +4,6 @@ Project topic: Website for a web development startup company.
 
 Team Members:
 •	Showaib Mehedi Sadi (W-59684){team leader},
-•	Kulvir Singh(W61627),
 •	Mamatbai kyzy Tolgonai(W59110)
 
 Purpose :
